@@ -1,0 +1,21 @@
+{
+  "name": "devlab-testing-starter",
+  "type": "module",
+  "license": "MIT",
+  "author": "Francois Royen <hello@francois-royen.com>",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vite": "^3.1.7",
+    "vitest": "^0.24.1"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "typescript",
+    "vite",
+    "vitest"
+  ],
+  "scripts": {
+    "test": "vitest"
+  }
+}
