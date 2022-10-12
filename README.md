@@ -77,4 +77,4 @@ List of dependencies installed in the project:
 
 ## License
 
-MIT, see [LICENSE.md](LICENSE) for details.
+MIT, see [LICENSE](LICENSE) for details.
