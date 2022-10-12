@@ -1,4 +1,4 @@
-# DevLab Testing Starter
+# 🧪 DevLab Testing Starter
 
 This is my starter pack to quickly test the reliability of a function, feel free to use it.
 
