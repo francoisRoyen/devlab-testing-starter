@@ -12,7 +12,7 @@ yarn
 
 - Add the file you want to test
 
-- Create your test file ([Vitest](https://vitest.dev/guide/) for more infos.)
+- Create your test file => [Vitest](https://vitest.dev/guide/) for more infos.
 
 - Run it :
 
